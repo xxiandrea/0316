@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Exercise 14</title>
+
+<style>
+
+.rectangle{
+    width:200px;
+    height:200px;
+    background-color:blue;
+    position:absolute;
+    left:100px;
+    top:100px;
+}
+
+.circle{
+    width:150px;
+    height:150px;
+    background-color:yellow;
+    border:5px solid red;
+    border-radius:50%;
+    position:absolute;
+    left:220px;
+    top:120px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="rectangle"></div>
+<div class="circle"></div>
+
+</body>
+</html>
